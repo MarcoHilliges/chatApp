@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "familie-app-40ef7": {
+      "hosting": {
+        "chatapp": [
+          "familie-app-40ef7"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "familie-app-40ef7"
+  }
+}
